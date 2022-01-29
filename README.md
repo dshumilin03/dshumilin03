@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dshumilin03
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me dshumilin04@gmail.com
 
 <!---
